@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "technical",
+        "2": "productivity",
+        "3": "customer support"
+    },
+    "demo_page": "https://json-viewer.bubbleapps.io/version-test",
+    "description": "Provide some JSON, get a nice looking collapsible tree view.\n\n⁉️ Demo available here 👉🏽 https://json-viewer.bubbleapps.io/version-test?\n\nView the editor 👉🏽 https://bubble.io/page?name=index&id=json-viewer&tab=tabs-1\n\n\n✅ Cool\n✅ Useful\n✅ Pure JS",
+    "image": "//meta-l.cdn.bubble.io/f1685693292478x189555926222580770/Frame%20466.svg",
+    "license": "open_source",
+    "link": "https://forum.bubble.io/u/minimumstudio/summary",
+    "name": "JSON Viewer",
+    "plugin_instructions": "The plugin uses a normal text field and transforms it into a JSON structure. Just pass some text with a correct JSON format and it will show the result in a nice viewer.",
+    "sa_node_version": 18
+}
